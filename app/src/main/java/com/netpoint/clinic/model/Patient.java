@@ -17,6 +17,7 @@ public class Patient {
     @Id
    @GeneratedValue
     public int id;
+
     @Column(nullable=false)
     public String name;
     @Column(unique = true)

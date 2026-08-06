@@ -18,7 +18,8 @@ public class SpecializationController {
     private final SpecializationService specializationService;
 
     @PostMapping
-    public ResponseEntity<SpecializationResponseDTO> addSpecialization(@RequestBody CreateSpecializationDTO createSpecializationDTO) {
+    public ResponseEntity<SpecializationResponseDTO> addSpecialization(
+            @RequestBody CreateSpecializationDTO createSpecializationDTO){
         return ResponseEntity.status(HttpStatus.CREATED).body(specializationService.CreateSpecialization(createSpecializationDTO));
     }
 
