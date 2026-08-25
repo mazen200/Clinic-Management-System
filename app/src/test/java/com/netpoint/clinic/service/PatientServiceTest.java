@@ -1,6 +1,6 @@
 package com.netpoint.clinic.service;
 
-import com.netpoint.clinic.DTO.PatientDTO;
+import com.netpoint.clinic.dtos.PatientDTO;
 import com.netpoint.clinic.mappers.PatientMapper;
 import com.netpoint.clinic.model.Patient;
 import com.netpoint.clinic.repository.PatientRepo;

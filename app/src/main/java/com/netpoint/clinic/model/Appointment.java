@@ -1,6 +1,6 @@
 package com.netpoint.clinic.model;
 
-import com.netpoint.clinic.Enum.AppointmentStatus;
+import com.netpoint.clinic.enums.AppointmentStatus;
 import jakarta.persistence.*;
 import lombok.*;
 

@@ -1,6 +1,6 @@
 package com.netpoint.clinic.model;
 
-import com.netpoint.clinic.Enum.Role;
+import com.netpoint.clinic.enums.Role;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

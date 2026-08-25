@@ -1,9 +1,9 @@
 package com.netpoint.clinic.service;
 
-import com.netpoint.clinic.DTO.AppointmentDto;
-import com.netpoint.clinic.DTO.AppointmentRequest;
-import com.netpoint.clinic.DTO.AppointmentStatusRequest;
-import com.netpoint.clinic.Enum.AppointmentStatus;
+import com.netpoint.clinic.dtos.AppointmentDto;
+import com.netpoint.clinic.dtos.AppointmentRequest;
+import com.netpoint.clinic.dtos.AppointmentStatusRequest;
+import com.netpoint.clinic.enums.AppointmentStatus;
 import com.netpoint.clinic.mappers.AppointmentMapper;
 import com.netpoint.clinic.model.Appointment;
 import com.netpoint.clinic.repository.AppointmentRepo;

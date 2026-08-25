@@ -1,7 +1,7 @@
-package com.netpoint.clinic.controller;
+package com.netpoint.clinic.controllers;
 
-import com.netpoint.clinic.DTO.ScheduleDTO;
-import com.netpoint.clinic.DTO.ScheduleRequest;
+import com.netpoint.clinic.dtos.ScheduleDTO;
+import com.netpoint.clinic.dtos.ScheduleRequest;
 import com.netpoint.clinic.service.ScheduleService;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.AllArgsConstructor;

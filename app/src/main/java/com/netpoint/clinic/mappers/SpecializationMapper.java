@@ -1,6 +1,6 @@
 package com.netpoint.clinic.mappers;
 
-import com.netpoint.clinic.DTO.SpecializationResponseDTO;
+import com.netpoint.clinic.dtos.SpecializationResponseDTO;
 import com.netpoint.clinic.model.Specializtions;
 import org.mapstruct.Mapper;
 

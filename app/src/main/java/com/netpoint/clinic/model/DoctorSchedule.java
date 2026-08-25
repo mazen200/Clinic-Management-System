@@ -1,6 +1,6 @@
 package com.netpoint.clinic.model;
 
-import com.netpoint.clinic.Enum.DayOfWeek;
+import com.netpoint.clinic.enums.DayOfWeek;
 import jakarta.persistence.*;
 import lombok.*;
 

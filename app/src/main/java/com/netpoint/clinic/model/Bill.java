@@ -1,8 +1,8 @@
 package com.netpoint.clinic.model;
 
 
-import com.netpoint.clinic.Enum.PaymentMethod;
-import com.netpoint.clinic.Enum.PaymentStatus;
+import com.netpoint.clinic.enums.PaymentMethod;
+import com.netpoint.clinic.enums.PaymentStatus;
 import jakarta.persistence.*;
 import lombok.*;
 

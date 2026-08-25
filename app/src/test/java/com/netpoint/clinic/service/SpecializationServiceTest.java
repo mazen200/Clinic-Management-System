@@ -1,7 +1,7 @@
 package com.netpoint.clinic.service;
 
-import com.netpoint.clinic.DTO.CreateSpecializationDTO;
-import com.netpoint.clinic.DTO.SpecializationResponseDTO;
+import com.netpoint.clinic.dtos.CreateSpecializationDTO;
+import com.netpoint.clinic.dtos.SpecializationResponseDTO;
 import com.netpoint.clinic.mappers.SpecializationMapper;
 import com.netpoint.clinic.model.Specializtions;
 import com.netpoint.clinic.repository.SpecializationRepo;

@@ -1,8 +1,8 @@
-package com.netpoint.clinic.controller;
+package com.netpoint.clinic.controllers;
 
-import com.netpoint.clinic.DTO.AppointmentDto;
-import com.netpoint.clinic.DTO.AppointmentRequest;
-import com.netpoint.clinic.DTO.AppointmentStatusRequest;
+import com.netpoint.clinic.dtos.AppointmentDto;
+import com.netpoint.clinic.dtos.AppointmentRequest;
+import com.netpoint.clinic.dtos.AppointmentStatusRequest;
 import com.netpoint.clinic.service.AppointmentService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;

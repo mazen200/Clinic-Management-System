@@ -1,4 +1,4 @@
-package com.netpoint.clinic.Enum;
+package com.netpoint.clinic.enums;
 
 public enum DayOfWeek {
     MONDAY,

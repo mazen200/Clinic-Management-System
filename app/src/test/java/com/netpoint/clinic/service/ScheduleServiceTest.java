@@ -1,8 +1,8 @@
 package com.netpoint.clinic.service;
 
-import com.netpoint.clinic.DTO.ScheduleDTO;
-import com.netpoint.clinic.DTO.ScheduleRequest;
-import com.netpoint.clinic.Enum.DayOfWeek;
+import com.netpoint.clinic.dtos.ScheduleDTO;
+import com.netpoint.clinic.dtos.ScheduleRequest;
+import com.netpoint.clinic.enums.DayOfWeek;
 import com.netpoint.clinic.mappers.ScheduleMapper;
 import com.netpoint.clinic.model.Doctor;
 import com.netpoint.clinic.model.DoctorSchedule;

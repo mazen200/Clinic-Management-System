@@ -1,6 +1,6 @@
-package com.netpoint.clinic.DTO;
+package com.netpoint.clinic.dtos;
 
-import com.netpoint.clinic.Enum.DayOfWeek;
+import com.netpoint.clinic.enums.DayOfWeek;
 import lombok.Getter;
 import lombok.Setter;
 

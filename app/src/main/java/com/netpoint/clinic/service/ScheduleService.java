@@ -1,7 +1,7 @@
 package com.netpoint.clinic.service;
 
-import com.netpoint.clinic.DTO.ScheduleDTO;
-import com.netpoint.clinic.DTO.ScheduleRequest;
+import com.netpoint.clinic.dtos.ScheduleDTO;
+import com.netpoint.clinic.dtos.ScheduleRequest;
 import com.netpoint.clinic.mappers.ScheduleMapper;
 import com.netpoint.clinic.model.DoctorSchedule;
 import com.netpoint.clinic.repository.DoctorRepo;

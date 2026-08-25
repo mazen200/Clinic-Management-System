@@ -1,6 +1,6 @@
-package com.netpoint.clinic.controller;
+package com.netpoint.clinic.controllers;
 
-import com.netpoint.clinic.DTO.DoctorDTO;
+import com.netpoint.clinic.dtos.DoctorDTO;
 import com.netpoint.clinic.service.DoctorService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;

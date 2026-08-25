@@ -1,9 +1,7 @@
-package com.netpoint.clinic.DTO;
+package com.netpoint.clinic.dtos;
 
 import lombok.Getter;
 import lombok.Setter;
-
-import java.time.LocalDateTime;
 
 @Getter
 @Setter

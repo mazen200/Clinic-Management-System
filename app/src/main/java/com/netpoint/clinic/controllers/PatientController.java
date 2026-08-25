@@ -1,6 +1,6 @@
-package com.netpoint.clinic.controller;
+package com.netpoint.clinic.controllers;
 
-import com.netpoint.clinic.DTO.PatientDTO;
+import com.netpoint.clinic.dtos.PatientDTO;
 import com.netpoint.clinic.model.Patient;
 import com.netpoint.clinic.service.PatientService;
 import lombok.AllArgsConstructor;

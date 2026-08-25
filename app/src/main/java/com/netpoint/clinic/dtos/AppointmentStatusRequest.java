@@ -1,6 +1,6 @@
-package com.netpoint.clinic.DTO;
+package com.netpoint.clinic.dtos;
 
-import com.netpoint.clinic.Enum.AppointmentStatus;
+import com.netpoint.clinic.enums.AppointmentStatus;
 import lombok.Getter;
 import lombok.Setter;
 

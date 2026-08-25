@@ -1,7 +1,7 @@
-package com.netpoint.clinic.controller;
+package com.netpoint.clinic.controllers;
 
-import com.netpoint.clinic.DTO.CreateSpecializationDTO;
-import com.netpoint.clinic.DTO.SpecializationResponseDTO;
+import com.netpoint.clinic.dtos.CreateSpecializationDTO;
+import com.netpoint.clinic.dtos.SpecializationResponseDTO;
 import com.netpoint.clinic.service.SpecializationService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

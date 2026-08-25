@@ -1,6 +1,6 @@
 package com.netpoint.clinic.mappers;
 
-import com.netpoint.clinic.DTO.ScheduleDTO;
+import com.netpoint.clinic.dtos.ScheduleDTO;
 import com.netpoint.clinic.model.DoctorSchedule;
 import org.mapstruct.Mapper;
 

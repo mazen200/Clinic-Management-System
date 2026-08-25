@@ -1,6 +1,6 @@
 package com.netpoint.clinic.mappers;
 
-import com.netpoint.clinic.DTO.PatientDTO;
+import com.netpoint.clinic.dtos.PatientDTO;
 import com.netpoint.clinic.model.Patient;
 import org.mapstruct.Mapper;
 

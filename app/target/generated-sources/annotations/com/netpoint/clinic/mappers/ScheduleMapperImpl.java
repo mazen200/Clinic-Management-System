@@ -1,7 +1,7 @@
 package com.netpoint.clinic.mappers;
 
-import com.netpoint.clinic.DTO.DoctorDTO;
-import com.netpoint.clinic.DTO.ScheduleDTO;
+import com.netpoint.clinic.dtos.DoctorDTO;
+import com.netpoint.clinic.dtos.ScheduleDTO;
 import com.netpoint.clinic.model.Doctor;
 import com.netpoint.clinic.model.DoctorSchedule;
 import javax.annotation.processing.Generated;
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2026-07-31T23:13:06+0300",
+    date = "2026-08-25T21:29:43+0300",
     comments = "version: 1.6.3, compiler: javac, environment: Java 26.0.1 (Oracle Corporation)"
 )
 @Component
